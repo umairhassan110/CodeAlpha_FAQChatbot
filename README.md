@@ -89,7 +89,7 @@ A real time object detection and tracking application built with Python, OpenCV 
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/yourusername/CodeAlpha_ObjectDetection.git
+git clone https:https://github.com/umairhassan110/CodeAlpha_FAQChatbot
 
 2. Navigate to project directory
 cd CodeAlpha_ObjectDetection
